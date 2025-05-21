@@ -1,0 +1,25 @@
+.card {
+    border: 1px solid #ddd;
+    /* Light border */
+    border-radius: 4px;
+}
+
+.card-img-top {
+    height: 150px;
+    /* Adjust as needed */
+    object-fit: cover;
+    /* Maintain image aspect ratio */
+}
+
+.card-title {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.card-text {
+    font-size: 0.875rem;
+}
+
+.btn-link {
+    padding: 0;
+}
